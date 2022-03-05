@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #f57224;
+}
+
+.container {
+  width: 1200px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.container-xl {
+  width: 1300px;
+  max-width: 100%;
+  margin: 0 auto;
+}
+img {
+  max-width: 100%;
+}
+
+html {
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background-color: #dff2ff;
+  height: 300vh;
+}

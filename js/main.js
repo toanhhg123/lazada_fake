@@ -19,5 +19,5 @@ menuListDown.onmouseleave = ()=>{
 
 
 
-bodyElement.style.marginTop = `${header.offsetHeight + 20}px`
+bodyElement.style.marginTop = `${header.offsetHeight }px`
 console.log('heder',header.offsetHeight);
